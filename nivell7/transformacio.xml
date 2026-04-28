@@ -1,1 +1,14 @@
-
+<obres>
+  <obra>
+    <nom>La història interminable</nom>
+    <escriptor>Michael Ende</escriptor>
+  </obra>
+  <obra>
+    <nom>Matilda</nom>
+    <escriptor>Roald Dahl</escriptor>
+  </obra>
+  <obra>
+    <nom>1984</nom>
+    <escriptor>George Orwell</escriptor>
+  </obra>
+</obres>
